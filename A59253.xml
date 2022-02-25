@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A serious advice to the African and Indian Company</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59253</idno>
+            <idno type="STC">Wing S2603</idno>
+            <idno type="STC">ESTC R219996</idno>
+            <idno type="EEBO-CITATION">99831436</idno>
+            <idno type="PROQUEST">99831436</idno>
+            <idno type="VID">35899</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59253)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35899)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2044:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A serious advice to the African and Indian Company</title>
+               </titleStmt>
+               <extent>[1], 4-12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on A2.</note>
+                  <note>Place of publication and date conjectured by Wing.</note>
+                  <note>Reproduction of the original in the Goldsmiths' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Company of Scotland Trading to Africa and the Indies --  Early works to 1800.</term>
+               <term>Royal African Company --  Early works to 1800.</term>
+               <term>Scotland --  History --  1689-1745 --  Early works to 1800.</term>
+               <term>Scotland --  Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:35899:1"/>
+            <pb facs="tcp:35899:1"/>
+            <head>A Serious ADVICE TO THE <hi>African</hi> and <hi>Indian</hi> Company.</head>
+            <p>IT is propoſed that the Directors may be pleaſed to Call not only the <hi>General Council,</hi> but as many of the <hi>Partners</hi> of the Company as can be had now in time of <hi>Parlia<g ref="char:EOLhyphen"/>ment;</hi> In Order to conſult the common Concerns of the Com<g ref="char:EOLhyphen"/>pany, where the <hi>True Intereſt</hi> of the Company may be <hi>Calmly</hi> and <hi>Seriouſly</hi> conſidered, without Paſſion or By-ends; And if by them, it be found expedient, the following Propoſals may be debated, agreed unto, or rejected, and that others may be added, or put in their place.</p>
+            <p n="1">1<hi>mo.</hi> That a Dutiful and Earneſt Addreſs may be made to the King and Parliament, Repreſenting the Injuries done us by <hi>England,</hi> in order to ſuch Redreſs as the Nature of the thing will bear, and for preventing of future Injuries.</p>
+            <p n="2">2<hi>do.</hi> That ſince hitherto we have received much Loſs, and little Gain, if any, by our being united under one Sove<g ref="char:EOLhyphen"/>reign with <hi>England;</hi> And that the Oppoſition which occurs in the Intereſt of two diſtinct Kingdoms under one Sovereign, are not only Embaraſſing, but oft times hurtful, eſpecially to the weakeſt; That therefore the Union of the two King<g ref="char:EOLhyphen"/>doms, either entirely, or at leaſt as to mutual Trade amongſt
+<pb n="4" facs="tcp:35899:2"/>themſelves, may be now ſeriouſly intended, and ſpeedily proſecuted, as hitherto it hath been only pretended, and Treated rather in Jeſt than Earneſt, by which, great Evils that threaten <hi>Brittain,</hi> may be prevented: Or if this be im<g ref="char:EOLhyphen"/>practicable, or on any Account rejected. The King and Par<g ref="char:EOLhyphen"/>liament would be humbly Supplicated to Explicat our mu<g ref="char:EOLhyphen"/>tual Intereſts, ſo that we may be not be uſed by our Neigh<g ref="char:EOLhyphen"/>bours of <hi>England,</hi> during our Nominal Union with them, as Slaves in time of War, nor as Aliens in time of Peace: Of both which, hitherto we have had many ſenſible Experi<g ref="char:EOLhyphen"/>ments.</p>
+            <p n="3">3<hi>tio.</hi> Since it was thought that we might Legally Poſſeſs a part of the Iſthmus of <hi>Ameria,</hi> where the King of <hi>Spain</hi> pretended Right? Though he had Garriſons and Poſſeſſions nearly Adjacent; On this Ground, that he was not in act<g ref="char:EOLhyphen"/>ual Poſſeſſion of the very Place; That now we may Addreſs His Majeſty, as King of <hi>England,</hi> to allow us the like Pri<g ref="char:EOLhyphen"/>viledge and Faculty in the Iſles and Continent of <hi>America,</hi> nearly Adjacent to the <hi>Engliſh</hi> Plantations, where we may have better Neighbourhood, and may claim more favour than from the <hi>Spaniard.</hi>
+            </p>
+            <p n="4">4<hi>to.</hi> That the Priviledges, granted to Our Company, ha<g ref="char:EOLhyphen"/>ving been Rendered ineffectual hitherto, by what Occured, That therefore now, we may Supplicat the King and Parlia<g ref="char:EOLhyphen"/>ment, for a further Prorogation of the time of our Priviledges; And likewiſe, in conſideration of our very great loſs, And that this Project of Ours tended more to the National advantage, than to any private Gain. <hi>Viz</hi> The ſettling of a Colonie in <hi>America,</hi> in order to Vent our Native Products, by a Canal of Our own, and for bringing to us needfull things from Abroad, in return of our own Goods, and not by the waſt of Our Stocks; And what is for a Common Good<g ref="char:punc">▪</g> ſhould be ſuſtained for a Common Stock, That therefore,
+<pb n="5" facs="tcp:35899:2"/>the King and Nation may Contribute to the Reſturation of Our Company; For which end it is humbly propoſed.</p>
+            <p>It is propoſed, that ſince Wine imported in ſo great quan<g ref="char:EOLhyphen"/>tity as is uſual, is ſo far from being of neceſſary uſe, That it may rather be eſteemed ſeperfluous, and yet a Prohibiti<g ref="char:EOLhyphen"/>on of its import abſolutely is not acceptable to the People: That his Majeſty may diſpence with a 4th part of the Cuſ<g ref="char:EOLhyphen"/>tom and Excyſe of Wines, Imported be the common Stock of the <hi>African</hi> Company.</p>
+            <p>This propoſition wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l be the more acceptable to the Na<g ref="char:EOLhyphen"/>tion, If the Wines ſo ſavoured be reſtricted, only to the Wines Imported for the returns of their Exported Fiſh allen<g ref="char:EOLhyphen"/>arly; And whereof ſufficient prooff is made, that they are returned on the Company's Accompt, and by the product of their Exported Fiſh.</p>
+            <p>Or if additional cuſtom of a 4th part more than is payed preſently for Wines, be added on all Wines not Imported be the Company on the return foreſaid.</p>
+            <p>Its owned, that this will give the Company the whole be<g ref="char:EOLhyphen"/>nefit of the importing of Wine, which is no hurtfull conceſ<g ref="char:EOLhyphen"/>ſion, ſince a prohibition of 3 parts of 4 of the Wine that is Imported will not only be Legal, but perhaps moſt fit; Yet ſince the generality of People are ſo defireous of its Import: And that it's conſumpt is not by the poor, but by thoſe who have Money to ſpare; The Importation of it may be the leſs grievous, That the profit thereof ſhould go to ſup<g ref="char:EOLhyphen"/>port this Company, who whoſe deſigns and Trade will be ſo beneficial to the Nation; And by this, other Merchants will be thereby induced to Employ their Stocks on the other things which are neceſſary for the Nation, whereby the Na<g ref="char:EOLhyphen"/>tion may be better furniſhed in all theſe Materials, ſuch as Timber, Iron. Salt for Fiſhing. Copper, Flax, Hemp, Soap. Aſhes, materials for Sugar, <hi>&amp;c.</hi> By which Manufactories
+<pb n="6" facs="tcp:35899:3"/>will certainly be encreaſed: Idle hands Imployed, and the poor ſuſtained: Whereas now Merchants Em<g ref="char:EOLhyphen"/>ploy their Stocks upon Wines, and neglects the Materials of other Manufactories. So that the Priviledge of Importing of Wines, being only in the <hi>African</hi> Company's hands will both be ſome Advantage to the Company, and a General Good to the Nation.</p>
+            <p>And if the ſame Priviledge were granted to the Company on Tobac<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o, would be on the ſame Grounds deſirable, and this would encourage the Company to beſtow a great part of their Stock upon Fiſhery. And ſince the Deſign and Reſult of the <hi>African</hi> and <hi>Indian</hi> Trade will be without doubt to the Nation in General; And conſequently to every Individual <hi>perſon</hi> in it, and that in Juſtice a common Good ſhould have a general Concurrence and Support; And that the generality of the Nation, eſpecially the Great Men and Burrows, have profeſſed a great and Extraordinar Zeal for the Concerns of this Company; And that private Perſons have now Ex<g ref="char:EOLhyphen"/>pendit on their private Stocks above 200000 lib. <hi>Sterling</hi> on this deſign, albeit the profit was indeed the reſult of the Nation, and is not now to be reattempted without a conſi<g ref="char:EOLhyphen"/>derable ſupport from the Nation, Therefore,</p>
+            <p>That three Months Ceſs yearly, for 3 or 4 years, may be impoſed in ſavours of this Company, with this proviſion, That at leaſt a third part thereof be imployed on Fiſhings on the <hi>Scottiſh</hi> Seas, whereby the Money ſo imployed will in<g ref="char:EOLhyphen"/>deed come to the common National profit, and almoſt to every Perſon in it; In ſo much that if this <hi>Quota</hi> of Money were put in the hands of good Managers, it is poſitively aſ<g ref="char:EOLhyphen"/>ſerted, that it could not be ſo advantagiouſly Imployed even for the particular Perſons of the Nation who contribute this Ceſs, as it may be for promoving a Fiſherie, and an <hi>Indi<g ref="char:EOLhyphen"/>an</hi> Trade in this Companies Hands, as the Sequel of this Paper will ſhew.</p>
+            <pb n="7" facs="tcp:35899:3"/>
+            <p>And to the effect it may be Managed aright, it is pro<g ref="char:EOLhyphen"/>poſed, that a General Council of the Company may be called preſently, and three of every State, And ſome of the Kings Officers may join with the ſaid Council, for eſtabliſhing the Government thereof, in ſuch Methods, and ſuch Hands, as ſhall be by them judged moſt expedient, and that the Direct<g ref="char:EOLhyphen"/>ors of the ſaid Company thereafter ſhall be obliged to give Accompt of their Proceedings from time to time, that ſo the Nation may ſee how their Money is imployed.</p>
+            <p>And to demonſtrat, how much Benefit this may bring to the Nation in general, and that therefore the Nation ſhould not grudge to encourage and ſuſtain a Company, which hath already ventured ſo far for a National Concern, and will Un<g ref="char:EOLhyphen"/>doubtedly continue ſo to do, if ſuſtained. I ſhall take an Example from one Branch, <hi>viz:</hi> Fiſhery.</p>
+            <p>The Propoſer and two or three other of his Friends, did in the latter end of <hi>Auguſt</hi> laſt, provide for making twelve Laſt of <hi>Herrings</hi> at <hi>Dumbar,</hi> and ordered for every Laſt two Barrel of <hi>French</hi> Salt, at ſix pound <hi>per</hi> Boll, and three Bolls of <hi>Scots</hi> Salt at two pound <hi>per</hi> Boll, and Cask and Hoops, which unmade, did coſt about nine pound <hi>per</hi> Laſt, which is all the Expenſe that was beſtowed on a Laſt, I mean, of Foreign Commoditie, in all amounting to 27 pound <hi>per</hi> Boll: For the Fiſh, the Cowpers, Wedges, the Servants Hyre and Meat, and carrying them from <hi>Dumbar</hi> to <hi>Leith,</hi> was all beſtowed on <hi>Scotsmen;</hi> So was the payments made to the Fiſhers, the Fiſhers Boats, Netts, and Proviſions were all <hi>Scots,</hi> and ſo was the price of the three Bolls of <hi>Scots</hi> Salt, <hi>viz:</hi> ſix pound; And conſequently all the Expenſe on Foreign Goods for the Laſt, extended only to 21 pound. This Laſt was ſold at <hi>Leith</hi> for ten pound the <hi>Barrel, inde per</hi> Laſt 120 pound, and at the ſame time the <hi>Buſh Herring</hi> was ſold at 15 pound the <hi>Barrel,</hi> which will extend to 180 pound <hi>Scots</hi>
+               <pb n="8" facs="tcp:35899:4"/>the Laſt, and yet in Buſh fiſhing, there is no money expend<g ref="char:EOLhyphen"/>ed on <hi>Foreign Commoditie;</hi> But the ſaid 21 pound <hi>per</hi> Laſt, is ſalted in the foreſaid manner. By which it plainly appears, that we did give out but 21 pound of money upon our Laſt; Yet if this Laſt had been fold to a Foreigner, at <hi>Leith &amp;c.</hi> at the foreſaid price of ten pound the <hi>Barrel, Scotland</hi> had gotten 99 pound from the <hi>Foreigner,</hi> which was pulled out of the Sea: And albeit perhaps we who thus imploy our mo<g ref="char:EOLhyphen"/>ney on this Fiſhing, made no exuberant profit, yet the whole 99 pound accreſced to the Stock of <hi>Scotland,</hi> which in a 1000 Laſt ſo made, <hi>Scotland</hi> would have acquired of Additional Stock 99000 pound, in leſs than four Months time, and if 10000 Laſt were ſo taken, there would acc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſs to the Stock of <hi>Scotland</hi> thereby 990000 pound; And ſince the <hi>Herring</hi> taken by <hi>Buſh Fiſhing,</hi> are acquired at little more Expence on <hi>Foreign Goods,</hi> and yet are conſiderably more valuable than the <hi>Dumbar Herring,</hi> 500 Buſhes at 30 Laſt <hi>per</hi> Buſh<g ref="char:punc">▪</g> and Loadning but twice in a year; <hi>inde</hi> 30000 laſt; Which ſold at 14 <hi>lib per Barrel,</hi> and deduceing from that the <hi>price</hi> of the <hi>Forreign Salt</hi> and <hi>Timber</hi> of the <hi>Cask;</hi> There will at leaſt <hi>remain</hi> 12 <hi>lib. per Barrel</hi> free which in 30000 Laſt can<g ref="char:EOLhyphen"/>not amount to leſs, then Three Million, or 3000000 pound <hi>Scots,</hi> of <hi>Addition</hi> to the <hi>Stock</hi> of <hi>Scotland;</hi> in leſs than 6 <hi>Months</hi> time: But if the <hi>Buſhes,</hi> ſhould Load thrice in a <hi>Sea<g ref="char:EOLhyphen"/>ſon</hi> (as in all <hi>probability</hi> they may, becauſe of the <hi>nearneſs</hi> and <hi>convenientneſs,</hi> of the <hi>Harbours</hi> both in the <hi>North</hi> and <hi>Weſt</hi> Seas; Then the Gain <hi>accruing</hi> to <hi>Scotland.</hi> would be four <hi>Million</hi> and <hi>Five Hundered Thouſand pound Scots;</hi> And the ſame <hi>Fiſhers, Servants.</hi> and <hi>Boats,</hi> may be Imployed the other half <hi>Year,</hi> on <hi>White-Fiſhing;</hi> Which all, who under<g ref="char:EOLhyphen"/>ſtand <hi>Fiſheries,</hi> ſays, is more valuable, then the <hi>Herring;</hi> And it that alſo, or the <hi>half</hi> thereof, were <hi>Yearly acquired</hi> to <hi>Scotland;</hi> How ſoon would it raiſe this Nation, from its preſent <hi>poverty;</hi> and baniſh all <hi>Beggary,</hi> by Imploying all
+<pb n="9" facs="tcp:35899:4"/>hands, that could <hi>Work,</hi> and <hi>acquire</hi> and <hi>India</hi> at our <hi>Doors.</hi> And the <hi>Practicableneſs</hi> hereof, is made out, from an <hi>undoubt<g ref="char:EOLhyphen"/>ed Experiment</hi> be our <hi>Neighbouring Nation,</hi> the <hi>Dutch.</hi> who have riſen by this <hi>Trade:</hi> from the <hi>Pover Staten</hi> to be indeed, an <hi>Hogen Mogen Staten:</hi> And beginning with five <hi>Buſhes,</hi> in <hi>Enckhatiuſen,</hi> They have encreaſed to above 1500 Buſhes, conſumed in <hi>Europe;</hi> And <hi>Europe</hi> will conſume four times as much if they had them.</p>
+            <p>Some Frivolouſly Object, that the <hi>Dutch</hi> take ſo many, and Cure them ſo well, that there will be neither Room nor Eſteem for Our Fiſhery; To which I Anſwer, That there is Mercat in <hi>Europe</hi> and <hi>Africk</hi> for twice as many as both <hi>Holland</hi> and We can take, <hi>For Meat and Drink never wanted Merchants.</hi> 2dly, I offer theſe Conſiderations to your Seri<g ref="char:EOLhyphen"/>ous Thoughts; The <hi>Hollanders,</hi> who have bad Harbours, and dear Proviſions, and lye from the <hi>Herring Fiſhing</hi> above 600 Miles, and the Schoal of <hi>Herring</hi> Sweaming from <hi>Zeatland</hi> to the Mouth of the Firth of <hi>Forth,</hi> are never 10 Leagues from ſome covenient <hi>Scots</hi> Harbour, ſo that in a modeſt Computation We may Unload twice or thrice for their once, If not four times: By which advantage alone, We are able to Underſell them, with Gain enough to Out ſelves; But to this advantage, add the numbers of Our Idle People, which are had for ſmall hire, the Cheapneſs of Our Mear and Drink, the ſhortneſs of time that our Loadning is a making, for what they muſt Imploy on every Loadning of Theirs. We may perform in leſs time by a third, And ſo by theſe advantages, We may Sell cheaper than they can. And yet a greater than all theſe, We having the opportu<g ref="char:EOLhyphen"/>nity to uſe the ſame Hands, Men and Ships, in Whit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Fiſhing for the other half of the Year, and the White Fiſh<g ref="char:EOLhyphen"/>eries lying alſo convenient near our Ports, will give Us advantages in Fiſhing, above what the <hi>Hollanders</hi> can have; So that if there be more Fiſh taken, than there be Mercat
+<pb n="10" facs="tcp:35899:5"/>for, the loſs muſt fall upon the <hi>Hollanders,</hi> and not upon Us. And for the Imaginary advantage they have, for Cureing their Fiſh better than we do, Experience has Re<g ref="char:EOLhyphen"/>futed that, For our laſt Fiſhery Company did Cure the Fiſh better than the <hi>Hollanders</hi> did, in the opinion of all <hi>Europe,</hi> and got better Price for their Fiſh; And indeed the oppor<g ref="char:EOLhyphen"/>tunity we have for performing a great part of that Work on Land, doth help us much to Cure them better, than the <hi>Hollanders</hi> can.</p>
+            <p>I crave leave to Entreat Our Company, earneſtly to con<g ref="char:EOLhyphen"/>ſider this Propoſition, for Imploying ſome conſiderable Stock on Fiſhery, for albeit it do not bring an Exuberant Gain at every time, yet the Gain will be conſiderable fre<g ref="char:EOLhyphen"/>quent and conſtant, and ten <hi>per</hi> Cent or leſs, three or four times in the Year, (which the <hi>Herring</hi> and White Fiſhing betwixt them may affoord) is a great Gain; And mean while tho the Company Gain not above Eight <hi>per</hi> Cent, Eighty <hi>per</hi> Cent will be added to the Stock of <hi>SCOTLAND:</hi> And by this means, the Company will R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quite to the Na<g ref="char:EOLhyphen"/>tion Tenfold, what the Nation will conferr upon them; And that not for a Year two or three, but for this and ſucceeding Generations. And the conſtant Gain ariſing from this, may in ſo far (prove a conſtant Fond, for ſuſtaining an <hi>America</hi> Collonie, in ſome Tenible Place, and ſutable to Our Power and Stock: And Pray, conſider and Compare this with fixing a Colony on the Expence of Our Capital Stock, with out a Future Fond to ſupport them, or Probability of pre<g ref="char:EOLhyphen"/>ſent Entertainment for them.</p>
+            <p>Since the whole project of this <hi>African</hi> Company, did pro<g ref="char:EOLhyphen"/>port a greater view of a General National good, then the advantage of particular Perſons concerned therein; And that the Company hath already, both Ventured and loſt, no leſs then 33 Months Ceſs of the whole Nation, given out of a
+<pb n="11" facs="tcp:35899:5"/>few privat Purſes; And it being apparent, that this Com<g ref="char:EOLhyphen"/>pany if they proſecute the deſigns of Fiſherie, and <hi>SCOTS</hi> Manufactories, which will Improve the Nationall Stock, in manner abovementioned: And that by the product of their Labours, Care, and Direction, the Nation may be e<g ref="char:EOLhyphen"/>vidently enabled, and inriched, and the Company enabled alſo thereby, to eſtabliſh an <hi>American</hi> Collony, and manadge an AFRICAN and INDIAN Trade: That for Capacitating this Company; To proſecute ſo great a good for the Nation, and to repair in ſome meaſure their great Loſs, on the Na<g ref="char:EOLhyphen"/>tional deſign; And to evidence, that the Repreſentative of the Nation, are deſireous to Support a common Good, and to evince, that theſe Patriots who are Juſtly incenſed by our Nationall and Companys Loſs, ſhew that their Zeal is on ſo generous an Account, and not for Humour or privat deſigns. Here they have an opportunity to demonſtrat it.</p>
+            <p>It would appear that none can juſtly reclaim, at this Na<g ref="char:EOLhyphen"/>tional Contribution; ſince it is evident, that this private Company hath already, and will yet beſtow fare more than the gift from the Nation will amount to; And yet the Nati<g ref="char:EOLhyphen"/>on in general will gain three to one, for what the whole Company will gain, as appears in the Compute of the Fiſh<g ref="char:EOLhyphen"/>erie, where the Nation gains Ten to one, with the Com<g ref="char:EOLhyphen"/>pany; And I boldly ſay were the whole three months Ceſs yearly, given by the Nation Imployed on the Fiſherie a<g ref="char:EOLhyphen"/>lone, the Company who Manages it on that Trade, would ſcarce have ſo much gain as ſhould be reaſonably allowed on the Superviſors of ſuch a Stock; And the whole reſt of the gain, which will be above 80. <hi>per cent,</hi> being expendit in, and on the Nation; Could not be ſo equally diſtribut for the good, and uſe of the Nation, and every province thereof, were it in their own hands, as it will be, by put<g ref="char:EOLhyphen"/>ting
+<pb n="12" facs="tcp:35899:6"/>it fot this end, and in this method, in the hands of the Company, for all of it will be Imployed on working People, and in an Univerſall extent; And ſo it will be ſome favour to the <hi>Company,</hi> a great increaſe of the Nation<g ref="char:EOLhyphen"/>al <hi>Stock,</hi> and a great Charity to the <hi>Poor:</hi> And an certain method for increaſe of <hi>Shipping</hi> and <hi>Seamen,</hi> and in ſhort it will <hi>Undoubtedly</hi> put the <hi>Nation</hi> into that courſe, by which it muſt riſe to <hi>Riches</hi> and <hi>Strength,</hi> if ever it riſe. And this <hi>Favour</hi> craved, being of ſo <hi>Univerſal</hi> benefit, ſhould indeed be rather preſt upon the <hi>Company,</hi> then begged by them?</p>
+            <p>Theſe few <hi>Overtures</hi> and <hi>Conſiderations</hi> I hope ſhall receive many <hi>Additions</hi> from others, with which no Body ſhall be more ready to concurr in with <hi>Candor</hi> and <hi>Zeal,</hi> then I ſhall be, or to give my <hi>Reaſons,</hi> if I differ in opinion, As I am well pleaſed, that others do by me, in what I have propoſed for it is neither thanks nor applauſe, but the true good both of our Nation and Company I aim at, It's true I ſhall be very ſorie to find uſeleſs Overturs offered, which may Em<g ref="char:EOLhyphen"/>baraſs, or hurtfull ones, which may imped the Effects, which I believe both the King and Parliament, intend for us; nor do I think that a greater prejudice can be done to the Nation and Company in our preſent Circumſtances, then are ſuch Inſinuations, which either ought not, nor cannot be granted.</p>
+            <pb facs="tcp:35899:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
